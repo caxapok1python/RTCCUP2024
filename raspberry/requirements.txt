@@ -1,0 +1,4 @@
+pyFirmata~=1.1.0
+opencv-python~=4.10
+numpy~=1.25.1
+pyzbar~=0.1.9
